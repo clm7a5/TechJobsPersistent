@@ -22,6 +22,7 @@ namespace TechJobsPersistent.Controllers
         }
 
         // GET: /<controller>/
+
         public IActionResult Index()
         {
             List<Skill> skills = context.Skills.ToList();

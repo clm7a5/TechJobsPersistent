@@ -22,6 +22,7 @@ namespace TechJobsPersistent.Controllers
         }
 
         // GET: /<controller>/
+
         public IActionResult Index()
         {
             ViewBag.columns = ListController.ColumnChoices;

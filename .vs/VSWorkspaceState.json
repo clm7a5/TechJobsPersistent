@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TechJobsPersistent",
+    "\\TechJobsPersistent\\Migrations",
+    "\\TechJobsPersistent\\Views",
+    "\\TechJobsPersistent\\Views\\List",
+    "\\TechJobsPersistent\\Views\\Search",
+    "\\TechJobsPersistent\\Views\\Shared",
+    "\\TechJobsPersistent\\Views\\Skill",
+    "\\TechJobsPersistent\\wwwroot",
+    "\\TechJobsPersistent\\wwwroot\\lib"
+  ],
+  "SelectedNode": "\\TechJobsPersistent\\TechJobsPersistent.sln",
+  "PreviewInSolutionExplorer": false
+}
